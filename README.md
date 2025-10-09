@@ -24,9 +24,10 @@ Produced a 2-page Interactive dashboard using Tableau.
 Dashboard: [Link](https://public.tableau.com/app/profile/shoun.biju/viz/SalesCustomerDashboardProject_17595383015530/SalesDashboard)
 
 <img width="1483" height="993" alt="Screenshot 2025-10-07 150109" src="https://github.com/user-attachments/assets/792b1023-5f38-4e41-a903-c2210b426634" />
-<img width="1481" height="989" alt="Screenshot 2025-10-07 150130" src="https://github.com/user-attachments/assets/3ce5a48e-7c5d-4dc7-8871-1d8c514cf6bb" />
+<img width="1487" height="998" alt="Screenshot 2025-10-09 132303" src="https://github.com/user-attachments/assets/d45ef99f-77f9-4459-bf72-ebcece2f201b" />
 <img width="1479" height="988" alt="Screenshot 2025-10-07 150204" src="https://github.com/user-attachments/assets/b66e68fe-47c5-41c8-ae7f-02199d5ee5a9" />
-<img width="1484" height="991" alt="Screenshot 2025-10-07 150149" src="https://github.com/user-attachments/assets/0f84342d-fe38-47e2-ae43-0567a12e1cc9" />
+<img width="1473" height="989" alt="Screenshot 2025-10-09 132329" src="https://github.com/user-attachments/assets/9ab35d06-8b32-4bde-a2ae-fc92ac34cadc" />
+
 
 
 ### 💼 Sales Performance Visualization
